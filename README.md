@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Erik-ai-design
+- 👀 I’m interested in FTIR and NMR data of the same mixtures.
+- 🌱 I’m currently learning (convolutional) neural networks with PyTorch in Python. 
+- 💞️ I’m looking to collaborate on university education
+- 📫 How to reach me (e.v.walbeek@tue.nl)
